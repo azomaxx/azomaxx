@@ -8,11 +8,5 @@ Conquering the digital world
 
 - **HackTheBox**: Top 1% Player Ranking
 
-
-## 📊 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=azomaxx&show_icons=true&theme=dark)
-
-
 ## 📫 Let's Connect
 - HackTheBox: [Azomax](https://app.hackthebox.com/public/users/1487959)
