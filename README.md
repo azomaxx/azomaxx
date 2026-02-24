@@ -1,78 +1,91 @@
-# Greetings, traveler 👋
+<div align="center">
 
-## 🎯 About Me
-Conquering the digital world.
+# 👋 Greetings, traveler
 
----
-
-## 🏆 Achievements
-- **HackTheBox**: Top 25 Player Ranking  
-- HackTheBox Profile: [Azomax](https://app.hackthebox.com/public/users/1487959)
+**Conquering the digital world**
 
 ---
 
-## 💻 Technical Skills
+## 🏆 Achievement
+🎯 **HackTheBox — Top 25 Player**  
+🔗 [Azomax](https://app.hackthebox.com/public/users/1487959)
 
-### 🧠 Programming Languages
-- Java  
-- C++  
-- Python  
-- Assembly (ASM)
+---
 
-### ⚙️ Frameworks & Technologies
-- Spring Boot  
-- Django  
-- Ionic  
-- React  
-- Angular  
+## ⚡ Tech Snapshot
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-black?style=for-the-badge)
+
+### ⚙️ Frameworks
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic)
 
 ### 🗄️ Databases
-- MySQL  
-- MariaDB  
-- MongoDB  
-- Neo4j  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
 
-### 🏗️ Infrastructure & DevOps
-- Docker  
-- Kubernetes  
-- Jenkins  
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-
-### 🧪 Testing
-- Selenium  
-- FitNesse  
-
-### 📜 Scripting
-- Python  
-- Bash  
-- Go  
-
-### 🌱 Version Control
-- Git  
-
-### 📊 Project Management
-- Trello  
-- Atlassian (Jira, Confluence)  
-- Agile methodologies  
+### 🏗️ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge)
 
 ---
 
 ## ☁️ Cloud & VPS
-- Google Cloud Platform (GCP)  
-- Oracle Cloud Infrastructure (OCI)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
-Using cloud and VPS environments for development, automation, and security research.
+Using cloud and VPS environments for:
+- Infrastructure labs  
+- Automation  
+- Security research  
 
 ---
 
-## 🤖 Artificial Intelligence & Automation
-- Currently mastering AI concepts and tooling  
+## 🤖 AI & Automation
+![AI](https://img.shields.io/badge/AI-black?style=for-the-badge&logo=openai)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+
+- Mastering AI systems and tooling  
 - Setting up and experimenting with **MCP (Model Context Protocol)**  
-- Integrating AI into security, scripting, and infrastructure workflows
+- Applying AI to security, scripting, and DevOps  
 
 ---
 
-## 📫 Let's Connect
-- HackTheBox: [Azomax](https://app.hackthebox.com/public/users/1487959)
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
 
 ---
+
+<details>
+<summary>📋 Full Skill Set</summary>
+
+| Category | Tools |
+|----------|-------|
+| Testing | Selenium, FitNesse |
+| Scripting | Python, Bash, Go |
+| VCS | Git |
+| Project Mgmt | Trello, Atlassian (Jira, Confluence), Agile |
+
+</details>
+
+---
+
+## 📫 Connect
+🔗 HackTheBox: [Azomax](https://app.hackthebox.com/public/users/1487959)
+
+---
+
+</div>
