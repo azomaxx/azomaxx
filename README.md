@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋 Greetings, traveler
+### Greetings, traveler
 
 **Conquering the digital world**
 
@@ -62,13 +62,6 @@ Using cloud and VPS environments for:
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=azomaxx&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azomaxx&layout=compact&theme=tokyonight" height="150"/>
-
----
-
 <details>
 <summary>📋 Other Skill Set</summary>
 
@@ -80,7 +73,5 @@ Using cloud and VPS environments for:
 | Project Mgmt | Trello, Atlassian (Jira, Confluence), Agile |
 
 </details>
-
----
 
 </div>
