@@ -83,9 +83,4 @@ Using cloud and VPS environments for:
 
 ---
 
-## 📫 Connect
-🔗 HackTheBox: [Azomax](https://app.hackthebox.com/public/users/1487959)
-
----
-
 </div>
