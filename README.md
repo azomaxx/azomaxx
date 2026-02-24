@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Greetings, traveler
+### 👋 Greetings, traveler
 
 **Conquering the digital world**
 
@@ -64,13 +64,13 @@ Using cloud and VPS environments for:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azomaxx&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azomaxx&layout=compact&theme=tokyonight" height="150"/>
 
 ---
 
 <details>
-<summary>📋 Full Skill Set</summary>
+<summary>📋 Other Skill Set</summary>
 
 | Category | Tools |
 |----------|-------|
