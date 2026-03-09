@@ -7,7 +7,7 @@
 ---
 
 ## 🏆 Achievement
-🎯 **HackTheBox — Top 25 Player**  
+🎯 **HackTheBox — Top 10 Player**  
 🔗 [Azomax](https://app.hackthebox.com/public/users/1487959)
 
 ---
